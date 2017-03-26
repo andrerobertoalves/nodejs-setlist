@@ -1,0 +1,20 @@
+{
+  "name": "setlist",
+  "version": "1.0.0",
+  "description": "A simple SetList program managed over http protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrerobertoalves/nodejs-setlist.git"
+  },
+  "keywords": [
+    "nodejs",
+    "setlist"
+  ],
+  "author": "Andre Alves",
+  "license": "ISC",
+  "homepage": "https://github.com/andrerobertoalves/nodejs-setlist/blob/master/README.md"
+}
